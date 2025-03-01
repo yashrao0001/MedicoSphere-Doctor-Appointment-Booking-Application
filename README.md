@@ -56,17 +56,6 @@
 
 ---
 
-## 🎯 Project Structure
-
-MedicoSphere/
-│── frontend/ # React frontend (User interface)
-│── backend/ # Express backend (API, authentication, database)
-│── admin/ # Admin & Doctor panel (Dashboard, controls)
-│── README.md # Project documentation
-│── .gitignore # Ignored files for Git
-
----
-
 ## 🚀 Installation & Setup
 
 ### 1️⃣ Clone the Repository
