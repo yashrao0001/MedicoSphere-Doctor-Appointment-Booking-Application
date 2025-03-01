@@ -1,8 +1,47 @@
-# React + Vite
+# 🏥 MedicoSphere - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the **frontend** of MedicoSphere, a doctor appointment booking system built with **React.js** and **Tailwind CSS**. It provides a user-friendly interface for patients to book appointments and manage their medical schedules.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+✅ **User Authentication** (Login/Register)  
+✅ **Book Appointments** with available doctors  
+✅ **View Appointment History**  
+✅ **Search for Doctors** by specialization  
+✅ **Secure Online Payments** via Razorpay
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** - Frontend library
+- **Tailwind CSS** - Styling framework
+- **React Router** - Navigation
+- **Axios** - API calls
+- **Razorpay** - Payment gateway integration
+
+---
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Navigate to the `frontend` folder:
+
+- cd frontend
+
+### 2️⃣ Install dependencies:
+
+- npm install
+
+### 3️⃣ Create a .env file:
+
+- VITE_BACKEND_URL = 'http://localhost:4000'
+
+### 4️⃣ Start the development server:
+
+- npm start
+
+- The app will be live at http://localhost:5173/.
